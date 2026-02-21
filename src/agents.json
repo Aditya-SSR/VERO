@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Victoria Sterling",
+    "title": "Director of Sales",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Prime Central London & Mayfair",
+    "experience": "15 Years",
+    "notableMarkets": ["Mayfair", "Belgravia", "Knightsbridge"],
+    "portfolio": "£500m+ in Residential Transactions",
+    "description": "Specialising in off-market trophy assets and heritage estates. Trusted by private family offices for discreet acquisitions in London's most prestigious postcodes.",
+    "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80"
+  },
+  {
+    "name": "Edward Cavendish",
+    "title": "Head of Private Client",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Kensington & Chelsea",
+    "experience": "20 Years",
+    "notableMarkets": ["Kensington", "Chelsea", "Holland Park"],
+    "portfolio": "£750m+ in Residential Transactions",
+    "description": "A foremost authority on London's lateral apartments and period conversions. Advises UHNW individuals on landmark acquisitions across prime West London.",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80"
+  },
+  {
+    "name": "Isabelle Montford",
+    "title": "Senior Associate",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Notting Hill & Holland Park",
+    "experience": "11 Years",
+    "notableMarkets": ["Notting Hill", "Holland Park", "Ladbroke Grove"],
+    "portfolio": "£240m+ in Residential Transactions",
+    "description": "Curating exceptional acquisitions across West London's most coveted garden squares. Recognised for discretion and privileged off-market access.",
+    "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80"
+  },
+  {
+    "name": "James Hartley",
+    "title": "Director of Acquisitions",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "St John's Wood & Regent's Park",
+    "experience": "18 Years",
+    "notableMarkets": ["St John's Wood", "Primrose Hill", "Regent's Park"],
+    "portfolio": "£620m+ in Residential Transactions",
+    "description": "Expert in London's villa market and Regent's Park estate properties. A trusted advisor to international buyers establishing a long-term London residence.",
+    "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80"
+  },
+  {
+    "name": "Charlotte Wyndham",
+    "title": "Head of Lettings",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Fulham & South Kensington",
+    "experience": "13 Years",
+    "notableMarkets": ["Fulham", "South Kensington", "Parsons Green"],
+    "portfolio": "£210m+ in Residential Transactions",
+    "description": "Leading VERO's lettings division with a refined approach to portfolio stewardship for London's most discerning landlords.",
+    "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80"
+  },
+  {
+    "name": "Oliver Ashworth",
+    "title": "Associate Director",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Marylebone & Fitzrovia",
+    "experience": "10 Years",
+    "notableMarkets": ["Marylebone", "Fitzrovia", "Bloomsbury"],
+    "portfolio": "£180m+ in Residential Transactions",
+    "description": "Advising private and institutional clients on strategic acquisitions across Central London's most architecturally significant neighbourhoods.",
+    "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80"
+  },
+  {
+    "name": "Sophia Delacroix",
+    "title": "International Liaison",
+    "location": "Based in London & Paris",
+    "specialisation": "Cross-Border Acquisitions",
+    "experience": "14 Years",
+    "notableMarkets": ["Marylebone", "Mayfair", "South Kensington"],
+    "portfolio": "£390m+ in Residential Transactions",
+    "description": "Advising European and Middle Eastern clients on landmark London acquisitions. Maintains a private network across twelve global capitals.",
+    "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80"
+  },
+  {
+    "name": "William Forsythe",
+    "title": "Senior Sales Consultant",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Hampstead & Highgate",
+    "experience": "16 Years",
+    "notableMarkets": ["Hampstead", "Highgate", "Muswell Hill"],
+    "portfolio": "£310m+ in Residential Transactions",
+    "description": "Specialist in North London's heritage villas and detached estates. Known for discreet representation in London's most private residential enclaves.",
+    "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80"
+  },
+  {
+    "name": "Arjun Mehta",
+    "title": "Private Client Advisor",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Mayfair & St John's Wood",
+    "experience": "17 Years",
+    "notableMarkets": ["Mayfair", "St John's Wood", "Marylebone"],
+    "portfolio": "£540m+ in Residential Transactions",
+    "description": "Advising private family offices and international investors on prime London acquisitions. Highly regarded for strategic guidance and long-term client stewardship.",
+    "imageUrl": "https://images.unsplash.com/photo-1614289371518-722f2615943d?w=400&q=80"
+  },
+  {
+    "name": "Priya Kapoor",
+    "title": "Senior Investment Advisor",
+    "location": "Based in London, United Kingdom",
+    "specialisation": "Knightsbridge & Belgravia",
+    "experience": "12 Years",
+    "notableMarkets": ["Knightsbridge", "Belgravia", "Chelsea"],
+    "portfolio": "£280m+ in Residential Transactions",
+    "description": "Focused on strategic residential investments for international buyers. Known for identifying exceptional opportunities within London's most tightly held postcodes.",
+    "imageUrl": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=400&q=80"
+  }
+]

@@ -1,4 +1,4 @@
-/* ── Header section ──────────────────────────────────────────── */
+
 .vert-header {
   width: 100%;
   background: #F5F5F3;
@@ -10,7 +10,7 @@
   padding: 120px 24px 100px;
 }
 
-/* Eyebrow */
+
 .vert-eyebrow {
   font-family: 'Lora', Georgia, serif;
   font-size: 11px;
@@ -21,7 +21,7 @@
   margin: 0 0 20px;
 }
 
-/* Main heading — navy reveals left to right on scroll */
+
 .vert-heading {
   font-family: 'Cinzel', 'Times New Roman';
   font-size: clamp(36px, 6vw, 72px);
@@ -30,14 +30,14 @@
   line-height: 1.15;
   margin: 0 0 28px;
 
-  /* Reveal: left half is full navy, right half is very faint navy */
+ 
   background-image: linear-gradient(
     to right,
     #102169 50%,
     rgba(16, 33, 105, 0.15) 50%
   );
   background-size: 200% 100%;
-  background-position-x: 100%; /* starts showing the faint half */
+  background-position-x: 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -47,7 +47,7 @@
     font-family: serif;
 }
 
-/* Subtext */
+
 .vert-subtext {
   font-family: 'Lora', Georgia, serif;
   font-size: 15px;
@@ -55,10 +55,10 @@
   color: rgba(16, 33, 105, 0.5);
   max-width: 480px;
   margin: 0;
-  opacity: 0; /* GSAP fades this in */
+  opacity: 0;
 }
 
-/* ── Stack container ─────────────────────────────────────────── */
+
 .stack-container {
   position: relative;
   width: 100%;
@@ -70,7 +70,7 @@
   overflow: hidden;
 }
 
-/* ── Card ────────────────────────────────────────────────────── */
+
 .card {
   position: absolute;
   width: 80vw;
@@ -96,7 +96,7 @@
   display: block;
 }
 
-/* ── Card overlay ────────────────────────────────────────────── */
+
 .card-overlay {
   position: absolute;
   inset: 0;
@@ -112,7 +112,6 @@
   padding: 20px 28px 28px;
 }
 
-/* ── Badge ───────────────────────────────────────────────────── */
 .card-badge {
   align-self: flex-start;
   font-family: 'Lora', Georgia, serif;
@@ -125,7 +124,7 @@
   backdrop-filter: blur(6px);
 }
 
-/* ── Bottom info ─────────────────────────────────────────────── */
+
 .card-info {
   display: flex;
   flex-direction: column;
@@ -185,7 +184,7 @@
   flex-shrink: 0;
 }
 
-/* Gold bottom border on each card */
+
 .card::before {
   content: '';
   position: absolute;

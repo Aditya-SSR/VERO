@@ -90,7 +90,7 @@ const handleMouseLeave = () => {
 };
 
   return (
-    /* ── Card shell ─────────────────────────────────────────────── */
+
     <div
       className="relative w-85 h-120 shrink-0 overflow-hidden cursor-default
                  bg-navy-soft
@@ -186,7 +186,6 @@ const handleMouseLeave = () => {
 
         <div className="flex gap-9 mb-5">
 
-          {/* Experience */}
           <div>
             <p
               className="text-[9.5px] tracking-[0.2em] uppercase text-[#7A8BAD] mb-1.75"

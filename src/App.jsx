@@ -10,6 +10,7 @@ import Agents from "./agents.jsx";
 import Collection from "./collection.jsx";
 import Presence from "./expanding.jsx";
 import Footer from "./footer.jsx";
+import CustomCursor from "./cursor.jsx";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -43,7 +44,7 @@ function App() {
 
   return (
     <>
-
+      <CustomCursor />
       {!isUnlocked && (
         <Preloader onComplete={() => setIsUnlocked(true)} />
       )}

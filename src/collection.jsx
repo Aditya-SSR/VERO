@@ -12,7 +12,7 @@ import hero4 from "./assets/hero/hero4.webp";
 import hero5 from "./assets/hero/hero5.webp";
 import hero6 from "./assets/hero/hero6.webp";
 
-/* ── Property data ───────────────────────────────────────────── */
+
 const properties = [
   {
     badge: "Featured",
@@ -77,7 +77,7 @@ const Collection = () => {
   useEffect(() => {
     const ctx = gsap.context(() => {
 
-      /* ── Header reveal ───────────────────────────────────────── */
+ 
       gsap.to(headingRef.current, {
         backgroundPositionX: "0%",
         ease: "none",
@@ -105,7 +105,7 @@ const Collection = () => {
         }
       );
 
-      /* ── Vertical card stack ─────────────────────────────────── */
+
       const cards = imageRef.current;
       gsap.set(cards.slice(1), { yPercent: 200 });
 
@@ -133,7 +133,7 @@ const Collection = () => {
   return (
     <div ref={wrapperRef}>
 
-      {/* ── Section 1 : Header ───────────────────────────────────── */}
+
       <section ref={headerRef} className="vert-header" id="collection">
 
         <p className="vert-eyebrow">The Collection</p>
@@ -149,7 +149,7 @@ const Collection = () => {
 
       </section>
 
-      {/* ── Section 2 : Card stack ───────────────────────────────── */}
+
       <section ref={sectionRef} className="stack-container">
         {images.map((img, i) => {
           const prop = properties[i];

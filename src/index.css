@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* 1️⃣ FONT DEFINITIONS FIRST (outside Tailwind layers) */
+
 
 /* CINZEL – Headings */
 @font-face {
@@ -53,7 +53,7 @@
 }
 
 
-/* 2️⃣ Register fonts with Tailwind v4 */
+
 @theme {
   --font-cinzel: "Cinzel", serif;
   --font-lora: "Lora", serif; 
@@ -67,7 +67,6 @@
   --color-gold:      #FFD700;
 }
 
-/* 3️⃣ Base reset */
 @layer base {
   *,
   *::before,
@@ -90,10 +89,10 @@ body {
 
 ::selection {
   background-color: #ffd700;
-  color: #000; /* Keeps the text readable against the gold */
+  color: #000;
 }
 
-/* This ensures it works on Firefox too */
+
 ::-moz-selection {
   background-color: #ffd700;
   color: #000;
@@ -101,3 +100,12 @@ body {
 
 }
 
+
+* {
+  cursor: none !important;
+}
+
+
+iframe, .standard-cursor {
+  cursor: auto !important;
+}

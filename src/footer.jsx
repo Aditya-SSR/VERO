@@ -1,3 +1,5 @@
+import LuxuryFooterAgent from "./figure";
+
 export default function Footer() {
   return (
     <footer
@@ -86,6 +88,8 @@ export default function Footer() {
         >
           © VERO by Lynx
         </p>
+
+        <LuxuryFooterAgent />
 
         <div className="flex gap-6 sm:gap-8">
           <a
